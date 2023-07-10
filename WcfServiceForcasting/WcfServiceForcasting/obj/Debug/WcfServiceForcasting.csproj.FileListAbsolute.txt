@@ -1,0 +1,14 @@
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.dll.config
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.pdb
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\Newtonsoft.Json.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.csprojResolveAssemblyReference.cache
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.pdb
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.dll.config
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\WcfServiceForcasting.pdb
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\bin\Newtonsoft.Json.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.csprojResolveAssemblyReference.cache
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.dll
+C:\Users\Reem\Desktop\Fifth Year\semester2\NET Programing\Labs\Lab4\WcfServiceForcasting\WcfServiceForcasting\obj\Debug\WcfServiceForcasting.pdb

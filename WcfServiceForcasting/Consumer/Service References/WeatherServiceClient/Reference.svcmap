@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7bce83a3-105d-43e0-bd81-e53669bdea8e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:17731/ForcastService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ForcastService.xsd" MetadataType="Schema" ID="f5e6b92a-0ecd-40a8-b764-d734d55b8159" SourceId="1" SourceUrl="http://localhost:17731/ForcastService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ForcastService1.xsd" MetadataType="Schema" ID="47fac50f-6fff-4ba6-aa6e-142a04a3cb0e" SourceId="1" SourceUrl="http://localhost:17731/ForcastService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ForcastService.disco" MetadataType="Disco" ID="ae5ca5ff-74b7-4701-8b05-3fb74d4fef75" SourceId="1" SourceUrl="http://localhost:17731/ForcastService.svc?disco" />
+    <MetadataFile FileName="ForcastService2.xsd" MetadataType="Schema" ID="0bdaa0ef-feaa-4e0b-9def-7b15cf64b156" SourceId="1" SourceUrl="http://localhost:17731/ForcastService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ForcastService.wsdl" MetadataType="Wsdl" ID="d1bdee20-03c2-4290-ba00-c63638c47ca7" SourceId="1" SourceUrl="http://localhost:17731/ForcastService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
